@@ -16,12 +16,12 @@ public class Magic {
 		Sort sortPlus = new Sort(14, "boule de feu", "trésmouillé", sortBase);
 		Sort sortPlusPlus = new Sort(16, "explosion", "remouille", sortPlus);
 		System.out.println(sortPlusPlus);
-		// creation d'une liste de carte
+		// creation d'une liste de cartehgcx
 		List<Cartes> listeDeCartes = new ArrayList<Cartes>();
 		listeDeCartes.add(sortPlus);
 		listeDeCartes.add(creature);
 		listeDeCartes.add(sortPlusPlus);
-		
+		//lmteeùetùz
 		listeDeCartes.add(terrain);
 		listeDeCartes.add(sortBase);
 		try {

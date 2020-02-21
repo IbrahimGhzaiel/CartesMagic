@@ -1,0 +1,22 @@
+{
+  "name": "cartesmagic",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha tests"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/IbrahimGhzaiel/CartesMagic.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/IbrahimGhzaiel/CartesMagic/issues"
+  },
+  "homepage": "https://github.com/IbrahimGhzaiel/CartesMagic#readme",
+  "devDependencies": {
+    "should": "^13.2.3"
+  }
+}
